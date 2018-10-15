@@ -1,0 +1,7 @@
+C:\Users\Matt\source\repos\Tech Academy\TAmathAndComparisonExercise\TAmathAndComparisonExercise\obj\Debug\TAmathAndComparisonExercise.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\Tech Academy\TAmathAndComparisonExercise\TAmathAndComparisonExercise\obj\Debug\TAmathAndComparisonExercise.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\Tech Academy\TAmathAndComparisonExercise\TAmathAndComparisonExercise\bin\Debug\TAmathAndComparisonExercise.exe.config
+C:\Users\Matt\source\repos\Tech Academy\TAmathAndComparisonExercise\TAmathAndComparisonExercise\bin\Debug\TAmathAndComparisonExercise.exe
+C:\Users\Matt\source\repos\Tech Academy\TAmathAndComparisonExercise\TAmathAndComparisonExercise\bin\Debug\TAmathAndComparisonExercise.pdb
+C:\Users\Matt\source\repos\Tech Academy\TAmathAndComparisonExercise\TAmathAndComparisonExercise\obj\Debug\TAmathAndComparisonExercise.exe
+C:\Users\Matt\source\repos\Tech Academy\TAmathAndComparisonExercise\TAmathAndComparisonExercise\obj\Debug\TAmathAndComparisonExercise.pdb
